@@ -1,0 +1,26 @@
+#user-login-form{
+margin-left: 100px;
+
+}
+.from-field{
+   margin-bottom: 40px;
+}
+.from-field input{
+    height: 30px;
+    width: 300px;
+}
+
+.my-modal {
+    display: none;
+    position: fixed;
+    background-color:darkgreen;
+    padding-top: 50px;
+}
+.my-modal.visible {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+};
+label{
+    background-color: aqua;
+}
